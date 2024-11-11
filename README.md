@@ -13,4 +13,4 @@ The result can be seen in the image below
 Vietnamese Version:
 We use [CuongLD](https://huggingface.co/CuongLD/wav2vec2-large-xlsr-vietnamese?fbclid=IwY2xjawGb_TBleHRuA2FlbQIxMAABHUr9zrZQMK7sqo_NOPgqTaWDTkkFqVjUFCA_FeL2mCMp9GWoxAf_egZvgw_aem_MJlIrNT7HykJ33nz2aoFCw) model which is finetuned from the  wav2vec2-large-xlsr-53 on Vietnamese using the Common Voice, Infore_25h dataset.
 
-The checkpoints for the XLSR version are in the wav2vec2-vivos folder
+The checkpoints for the XLSR version are in the [wav2vec2-vivos](https://github.com/vutl/Automatic-Speech-Recognition/tree/main/wav2vec2-vivos) folder
