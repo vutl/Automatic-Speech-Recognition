@@ -6,7 +6,8 @@ XLSR version:
 We use [xlsr-large-53](https://huggingface.co/facebook/wav2vec2-large-xlsr-53) model from facebook. The xlsr model is finetuned from the base wav2vec2 model for multiple languages. We create our own [vocab.json](https://github.com/vutl/Automatic-Speech-Recognition/blob/main/vocab.json) file which containes all Vietnameses letters.
 
 The result can be seen in the image below
-![image](https://github.com/user-attachments/assets/9f511330-2012-48c8-b17d-a24290127e94)
+![Screenshot 2024-11-11 101728](https://github.com/user-attachments/assets/78957128-1f8c-46bd-b599-245877b37668)
+
 
 
 Vietnamese Version:
